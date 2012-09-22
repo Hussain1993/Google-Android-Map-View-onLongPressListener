@@ -9,4 +9,4 @@ The two views are:
 </ol>
 </p>
 
-![alt text](https://raw.github.com/Hussain1993/Google-Android-Map-View-onLongPressListener/master/Screenshots/Screen%20Shot%202012-09-22%20at%2014.45.15.png)
+![The image could not be loaded](https://raw.github.com/Hussain1993/Google-Android-Map-View-onLongPressListener/master/Screenshots/Screen%20Shot%202012-09-22%20at%2014.45.15.png)
