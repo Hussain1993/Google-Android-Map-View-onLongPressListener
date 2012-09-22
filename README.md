@@ -1,11 +1,13 @@
-This is an application where it implements
-its own custom map view to enable a long press
-listener, this has many uses in the real world; 
-one example of this which has been included in this
-application is that the user is presented with a dialog 
-box where they have the choice to change the map view
-they are seeing the two options are
-1. Standard 
-2. Satellite
-This application also displays the
-users current location with a pin.
+<p>This is an example of an application that implements a long press listener
+to a Google Map, in this application when the user long presses on the
+map, the application will display a dialog box asking the
+user which version of the map that would like to view it in. <br/>
+The two views are:
+<ol>	
+	<li>Standard</li>
+	<li>satellite</li>
+</ol>
+
+
+
+</p>
