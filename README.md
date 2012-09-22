@@ -8,5 +8,13 @@ The two views are:
 	<li>Satellite</li>
 </ol>
 </p>
-
+<p>The following image shows the dialog box that is
+presented to the user when the user long presses on the map,
+as you can see the default view is set to the Standard view.
+</p>
 ![The image could not be loaded](https://raw.github.com/Hussain1993/Google-Android-Map-View-onLongPressListener/master/Screenshots/Screen%20Shot%202012-09-22%20at%2014.45.15.png)
+
+<p>After the user has chosen the second option the map view will change
+to show the following map view.
+</p>
+
