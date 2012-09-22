@@ -5,9 +5,9 @@ user which version of the map that would like to view it in. <br/>
 The two views are:
 <ol>	
 	<li>Standard</li>
-	<li>satellite</li>
+	<li>Satellite</li>
 </ol>
 
-
+![alt text](https://raw.github.com/Hussain1993/Google-Android-Map-View-onLongPressListener/master/Screenshots/Screen%20Shot%202012-09-22%20at%2014.45.15.png)
 
 </p>
