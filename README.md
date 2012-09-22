@@ -17,4 +17,7 @@ as you can see the default view is set to the Standard view.
 <p>After the user has chosen the second option the map view will change
 to show the following map view.
 </p>
-
+![The image could not be loaded](https://raw.github.com/Hussain1993/Google-Android-Map-View-onLongPressListener/master/Screenshots/Screen%20Shot%202012-09-22%20at%2014.59.09.png)
+<p>As you can see the view of the map has changed.<br/>
+Hussain Miah (hussain1993.tumblr.com)hmiah.1993@gmail.com
+</p>
